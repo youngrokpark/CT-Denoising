@@ -1,0 +1,6 @@
+AAPM_data/
+CT_denoising_best/cyclegan_best
+CT_denoising_best/cyclegan_best_supervised
+CT_denoising_best/supervised_best
+CT_denoising_best/supervised_best.pth
+CT_denoising_best/events.out.tfevents.1713098908.osilab2.1769335.0
